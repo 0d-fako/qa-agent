@@ -10,7 +10,13 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/dotenv": "^6.1.1",
     "@types/markdown-it": "^14.1.2",
+    "@types/node": "^25.0.2",
     "markdown-it": "^14.1.0"
+  },
+  "dependencies": {
+    "commander": "^14.0.2",
+    "dotenv": "^17.2.3"
   }
 }
